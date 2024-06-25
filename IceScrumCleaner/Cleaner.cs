@@ -1,6 +1,6 @@
 ﻿namespace IceScrumCleaner
 {
-    public class Class1
+    public class ICleaner
     {
 
     }
