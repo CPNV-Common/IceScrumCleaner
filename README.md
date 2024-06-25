@@ -39,17 +39,17 @@ How to deploy the application outside the dev environment.
 * Tip: try the tree bash command
 
 ```shell
-????Docs
-????Shopping                                        //classes and packages
-?   ????bin                                         //the binary to deploy on the end-user environment
-?   ?   ????Debug
-?   ????obj
-?       ????Debug                                   
-????TestShopping                                    //test classes
-    ????bin
-    ?   ????Debug
-    ????obj
-        ????Debug
+├───Docs
+├───Shopping                                        //classes and packages
+│   ├───bin                                         //the binary to deploy on the end-user environment
+│   │   └───Debug
+│   └───obj
+│       └───Debug                                   
+└───TestShopping                                    //test classes
+    ├───bin
+    │   └───Debug
+    └───obj
+        └───Debug
 ```
 
 ## Collaborate
